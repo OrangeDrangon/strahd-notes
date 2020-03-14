@@ -26,3 +26,16 @@ level 12 - 13 at end of campaign
 
 Time:
 Mondays 8:30 EST
+
+Rolled Stats:
+16 - int
+13 - wis
+10 - cha
+10 - dex
+15 - str
+14 - con
+
+Rolled Hp:
+4
+Total Hp:
+8 = 4 + 3 + 1
